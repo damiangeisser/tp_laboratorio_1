@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1553687816 source:d:\dg\programacion_i\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+
+1554502483 source:e:\estudio\programación\utn\programación i\clonado de github\programacion_i\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"geisser.h"
+
+1554500958 source:e:\estudio\programación\utn\programación i\clonado de github\programacion_i\tp1\geisser.c
+
+1554501959 e:\estudio\programación\utn\programación i\clonado de github\programacion_i\tp1\geisser.h
+
+1554500958 source:e:\estudio\programación\utn\programación i\clonado de github\programacion_i\tp1_geisser\geisser.c
+
+1554502483 source:e:\estudio\programación\utn\programación i\clonado de github\programacion_i\tp1_geisser\main.c
+	<stdio.h>
+	<stdlib.h>
+	"geisser.h"
+
+1554501959 e:\estudio\programación\utn\programación i\clonado de github\programacion_i\tp1_geisser\geisser.h
+
