@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1557522893 source:e:\estudio\programación\utn\programación i\programacion_i\geissertp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1557522288 source:e:\estudio\programación\utn\programación i\programacion_i\geissertp2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1557504233 e:\estudio\programación\utn\programación i\programacion_i\geissertp2\input.h
+
+1557524016 source:e:\estudio\programación\utn\programación i\programacion_i\geissertp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1557524255 e:\estudio\programación\utn\programación i\programacion_i\geissertp2\arrayemployees.h
+
